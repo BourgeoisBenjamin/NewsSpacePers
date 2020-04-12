@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-hdpi_fond.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-hdpi/fond.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxhdpi_fond.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxhdpi/fond.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_fond.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxxhdpi/fond.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xhdpi_fond.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xhdpi/fond.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-hdpi_logo.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_logo.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-mdpi_logo.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xhdpi_logo.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-mdpi_fond.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-mdpi/fond.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bourgeois/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/res/merged/release/mipmap-xxhdpi_logo.png.flat",
+        "source": "/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/android/app/src/main/res/mipmap-xxhdpi/logo.png"
+    }
+]
