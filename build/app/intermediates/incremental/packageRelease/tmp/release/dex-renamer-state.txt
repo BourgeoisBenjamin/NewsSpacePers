@@ -1,4 +1,0 @@
-#Sun Feb 23 15:01:12 CET 2020
-base.0=/home/bourgeois/Epitech/delivery/B4/EPITECHJAM/JAM_space_2019/epi_space/build/app/intermediates/transforms/r8/release/0/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
